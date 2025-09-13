@@ -12,16 +12,16 @@
   </em>
   <br/><br/>
   <!-- Social badges, styled to match header -->
-  <a href="https://www.linkedin.com/in/nima-soltanian" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:nimaso8228@gmail.com" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://t.me/nima_stn" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/nima-sltn" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge" />
   </a>
 </div>
