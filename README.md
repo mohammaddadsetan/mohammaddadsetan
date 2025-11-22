@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./night.gif" width="900" height="320" alt="Perfect Night" style="border-radius:16px;" />
   <h1>
-    𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="36" />  𝙄 𝙖𝙢 Mohammad Dadsetanpour
+    Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="36" />  I am Mohammad Dadsetanpour
   </h1>
 <!--   <h2>
     I'm <span style="color:#38B2AC;">Nima Soltanian</span> — Crafting the future of the web, one pixel at a time.
