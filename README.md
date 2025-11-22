@@ -12,10 +12,10 @@
   </em>
   <br/><br/>
   <!-- Social badges, styled to match header -->
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/mdadsetan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=dadsetanpor@gmail.com&su=SUBJECT&body=BODY&tf=cm" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="" target="_blank">
